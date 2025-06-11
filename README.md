@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my GitHub profile! 😊
 
-<!--
-**PauloFCO/PauloFCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Paulo Francisco Iglesias Cabaleiro**, a passionate developer who loves building modern web applications, language learning tools, and clean, maintainable code.  
+I'm deeply interested in technology, artificial intelligence, and creating useful tools that make a difference.
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🎓 **TFG – Bilingual Subtitle Extension & Platform**  
+  My current project: a browser extension and web platform designed to enhance language learning through bilingual subtitles on YouTube.
+- 🛠️ Still building with passion — more coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in touch
+- 📧 Email: [paulofcoigca@gmail.com](mailto:paulofcoigca@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/paulo-francisco-iglesias-cabaleiro-783854319](https://www.linkedin.com/in/paulo-francisco-iglesias-cabaleiro-783854319/)
+
+Thanks for visiting! 🚀🚀
