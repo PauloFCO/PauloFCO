@@ -17,7 +17,7 @@ I'm deeply interested in technology, artificial intelligence, and creating usefu
 ### 💼 Professional Experience
 - 💻 **NTT DATA Spain**  
   - 🧑‍💼 *Junior Full-Stack Developer* (current role)  
-  - 🎓 *Internship* – 7 months of hands-on experience as a full-stack developer
+  - 🎓 *Internship* – 9 months of hands-on experience as a full-stack developer
 
 ### 📫 Get in touch
 - 📧 Email: [paulofcoigca@gmail.com](mailto:paulofcoigca@gmail.com)  
