@@ -5,8 +5,19 @@ I'm deeply interested in technology, artificial intelligence, and creating usefu
 
 ### 🚀 Projects
 - 🎓 **TFG – Bilingual Subtitle Extension & Platform**  
-  My current project: a browser extension and web platform designed to enhance language learning through bilingual subtitles on YouTube.
+  A browser extension and web platform designed to enhance language learning through bilingual subtitles on YouTube.
+  ✅ Built with the **MERN stack** (MongoDB, Express.js, React, Node.js).  
+  🏅 **Awarded with matrícula de honor** (highest distinction) for this final degree project.
+
+- 🤖 **AI-powered Financial Telegram Bot** *(in progress)*  
+  A personal project that combines artificial intelligence with financial tools to help users manage their investments and get smart insights via Telegram.
+
 - 🛠️ Still building with passion — more coming soon!
+
+### 💼 Professional Experience
+- 💻 **NTT DATA Spain**  
+  - 🧑‍💼 *Junior Full-Stack Developer* (current role)  
+  - 🎓 *Internship* – 7 months of hands-on experience as a full-stack developer
 
 ### 📫 Get in touch
 - 📧 Email: [paulofcoigca@gmail.com](mailto:paulofcoigca@gmail.com)  
