@@ -12,7 +12,7 @@ I'm deeply interested in technology, artificial intelligence, and creating usefu
 - 🤖 **AI-powered Financial Telegram Bot** 
   A personal project that combines artificial intelligence with financial tools to help users manage their investments and get smart insights via Telegram.
 
-- 🌐 **Portfolio Website (for a colleague)**  
+- 🌐 **Portfolio Website**  
   Currently developing a **full-stack MERN portfolio** with a mix of **retro (Windows 95)** and **modern UI** styles. Combining open-source UI libraries for a unique, interactive design.  
 
 - 🛠️ Still building with passion — more coming soon!
