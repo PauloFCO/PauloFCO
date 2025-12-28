@@ -21,7 +21,7 @@ I'm particularly interested in web technologies, artificial intelligence, and de
 - **Portfolio Website**  
   A **MERN portfolio** with a mix of **retro (Windows 95)** and **modern UI** styles. Combining open-source UI libraries for a unique, interactive design.  
 
-- Still building with passion <3
+Still building with passion <3
 
 ### Professional Experience
 - **NTT DATA Spain**  
