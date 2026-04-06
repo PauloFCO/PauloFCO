@@ -25,7 +25,7 @@ Still building with passion <3
 
 ### Professional Experience
 - **NTT DATA Spain**  
-  - *Junior Full-Stack Developer* (current role) - since october 2023
+  - *Junior Full-Stack Developer* (current role) - since october 2024
   - _Full-Stack Developer Intern_ — 9 months of hands-on professional experience
 
 ### Get in touch
