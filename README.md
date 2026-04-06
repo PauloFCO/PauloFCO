@@ -25,8 +25,8 @@ Still building with passion <3
 
 ### Professional Experience
 - **NTT DATA Spain**  
-  - *Junior Full-Stack Developer* (current role) - since september 2025
-  - _Full-Stack Developer Intern_ — 6 months of hands-on professional experience
+  - *Junior Full-Stack Developer* (current role) - since october 2023
+  - _Full-Stack Developer Intern_ — 9 months of hands-on professional experience
 
 ### Get in touch
 - 📧 Email: [paulofcoigca@gmail.com](mailto:paulofcoigca@gmail.com)  
